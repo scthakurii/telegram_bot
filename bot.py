@@ -4,7 +4,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 from chat_responses import get_response, get_topics
 from utils import load_passcode
 
-TOKEN = '7867669215:AAHLcZlSIEhYBfaNqWaM82ad4i1kkTP-wzE'
+TOKEN = 'haha get your api token :/'
 PASSCODE = load_passcode()
 
 PASSCODE_CHECK, CHATTING, TOPIC_SELECTION = range(3)
